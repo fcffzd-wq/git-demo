@@ -1,2 +1,0 @@
-# git-demo
-Trying Git 
